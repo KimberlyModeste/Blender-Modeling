@@ -1,0 +1,9 @@
+#Ignore Blender auto backup files
+*.blend1
+*.blend2
+*.blend3
+
+#Ignore temporary crash logs and render outputs
+*.crash.txt
+/render/
+/output/
